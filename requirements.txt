@@ -5,3 +5,6 @@ opencv-python
 matplotlib
 pandas
 tqdm
+keras-tuner
+scikit-learn
+seaborn
