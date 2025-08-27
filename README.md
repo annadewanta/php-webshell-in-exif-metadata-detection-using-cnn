@@ -21,13 +21,13 @@ Proyek ini mengembangkan sebuah modul deteksi berbasis *Convolutional Neural Net
     - `model_training.py`: Skrip untuk melatih model.
     - `detector.py`: Skrip utama untuk menjalankan deteksi.
 - `requirements.txt`: Daftar pustaka Python yang dibutuhkan.
-- `panduan_pengguna.pdf`: Dokumen panduan penggunaan lengkap.
+- `Panduan Instalasi dan Penggunaan.pdf`: Dokumen panduan instalasi dan penggunaan modul deteksi.
 - `README.md`: Dokumen ini.
 
 ---
 
 ## 🚀 Memulai (Quick Start)
-Untuk panduan instalasi dan penggunaan yang lengkap dan terperinci, silakan merujuk ke dokumen **`panduan_pengguna.pdf`** yang ada di repositori ini.
+Untuk panduan instalasi dan penggunaan yang lengkap dan terperinci, silakan merujuk ke dokumen **`Panduan Instalasi dan Penggunaan.pdf`** yang ada di repositori ini.
 
 ---
 
