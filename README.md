@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Modul Deteksi Webshell dalam Metadata Gambar
 
 Repositori ini berisi kode sumber untuk penelitian skripsi berjudul "Pengembangan Modul Deteksi Gambar yang Mengandung Webshell Menggunakan CNN Berbasis Python".
@@ -20,5 +20,4 @@ Untuk panduan instalasi dan penggunaan yang lengkap, silakan merujuk ke dokumen 
 - `/model/`: Direktori untuk menyimpan file model `.keras` yang telah dilatih.
 - `/images/`: Berisi beberapa contoh gambar untuk pengujian cepat.
 =======
-# php-webshell-in-exif-metadata-detection-using-cnn
->>>>>>> 02a63a20c5baed53c1f9680239118020f99a85d8
+
